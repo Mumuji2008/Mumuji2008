@@ -18,7 +18,7 @@ Site: https://penguin-number-123.github.io
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-blue?style=plastic&logo=windows&logocolor=white)
 ![](https://img.shields.io/badge/Languages%3A-Python%2C%20Js-blue?style=plastic&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Penguin%20type-Yes-yellow?style=plastic?logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Penguin%20type-Yes-yellow?style=plastic&logo=linux&logoColor=white)
 
 <!---
 Mumuji2008/Mumuji2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
